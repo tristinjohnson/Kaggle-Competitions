@@ -10,3 +10,5 @@ New York City Taxi Trip Duration: https://www.kaggle.com/c/nyc-taxi-trip-duratio
 
 Ghouls, Goblins & Ghosts: https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo/overview
 
+Intel Image Classification: https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+
