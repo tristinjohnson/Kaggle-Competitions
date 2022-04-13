@@ -7,11 +7,11 @@ import opendatasets as od
 import os
 
 # make data directory
-#os.makedirs('../data')
-#data_dir = '../data/'
+os.makedirs('../data')
+data_dir = '../data/'
 
 # change to data directory
-#os.chdir(data_dir)
+os.chdir(data_dir)
 
 # download Intel Image Classification
 dataset_url = "https://www.kaggle.com/puneet6060/intel-image-classification"
